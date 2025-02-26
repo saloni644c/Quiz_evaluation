@@ -1,0 +1,35 @@
+Level 1|How do you define enzymes?|Enzymes are biocatalysts, which enhance the rate of reaction of metabolic reactions without getting used there.
+Level 1|How do you classify enzymes?|There are 7 classes: Oxidoreductases (transfer O, H+, e-), Transferase (transfers groups other than O, H+, e-), Hydrolases (breaks bond by using water), Lyases (breaks bond without using water), Isomerase (acts on isomers), Ligase (joins biomolecules with utilization of energy), Translocase (helps molecules to transport across the membrane).
+Level 1|What are the different types of enzyme inhibition?|Competitive, non-competitive, uncompetitive, allosteric, suicidal, feedback inhibition, induction, and repression.
+Level 1|What are the liver enzymes?|AST, ALT, ALP, LDH, GGT, 5’NT.
+Level 1|What are the pancreatic enzymes?|Amylase and lipase.
+Level 1|What are the factors that affect enzyme action?|Substrate concentration, product concentration, temperature, pH, inhibitors and activators, time, light, and radiation.
+Level 1|What is Km?|Km is the substrate concentration at which half-maximal velocity is achieved.
+Level 1|What is the ideal range of pH where majority enzymes function optimally?|6-8.
+Level 1|Which enzymes are used as cardiac markers?|LDH 1 & 2, AST/SGOT, CK-MB.
+Level 1|What are coenzymes?|Coenzymes are the non-protein part of the enzymes, which are organic, heat stable, and mostly derived from B-complex vitamins.
+
+Level 2|What are the properties of enzymes?|Mostly proteins and follow the physical and chemical properties of proteins. They are heat labile, water soluble, form colloids, can be precipitated by protein precipitating agents, and contain 16% weight as nitrogen.
+Level 2|Give example of each class of enzyme.|Oxidoreductases: Lactate Dehydrogenase, G-6PD, alcohol dehydrogenase; Transferase: Kinases, aminotransferases; Hydrolases: Acetylcholine esterase; Lyases: Aldolase, HMG CoA lyase; Isomerase: Triose phosphate isomerase; Ligase: DNA ligase, Acetyl CoA carboxylase, glutamine synthetase, PRPP synthetase; Translocase: ABC transporter, GluT.
+Level 2|How do you differentiate between competitive and non-competitive inhibition?|Competitive inhibition acts on the active site, while non-competitive inhibition may or may not. Competitive inhibitors resemble the substrate, whereas non-competitive inhibitors do not. Competitive inhibition is reversible, while non-competitive is mostly irreversible. Increasing substrate concentration relieves competitive inhibition but has no effect on non-competitive inhibition. Km increases in competitive inhibition but remains unchanged in non-competitive inhibition. Vmax remains unchanged in competitive inhibition but decreases in non-competitive inhibition. Competitive inhibition is significant in drug action, while non-competitive inhibition has toxicological significance.
+Level 2|What are the reference ranges of AST, ALT, ALP?|AST- 5-40 IU/L, ALT- 5-40 IU/L, ALP- 40-125 U/L
+Level 2|Name a non-protein enzyme. Why are they called enzymes?|Ribozymes. Because they obey Michelis Menten kinetics
+Level 2|What is suicidal enzyme inhibition?|Streptokinase and urokinase used for lysing intravascular clots, Streptodornase is a DNAse and applied locally, Asparginase for acute lymphoblastic leukemia, pancreatin for indigestion, Alpha-1-antitrypsin in emphysema, papain as anti-inflammatory.
+Level 2|Give examples of therapeutic usage of enzymes.|Streptokinase and urokinase used for lysing intravascular clots, Streptodornase is a DNAse and applied locally, Asparginase for acute lymphoblastic leukemia, pancreatin for indigestion, Alpha-1-antitrypsin in emphysema, papain as anti-inflammatory.
+Level 2|Name some enzymes that can function beyond optimal temperature.|Urease at 600c, Taq Polymerase at 1000c.
+Level 2|Which enzyme is used for diagnosing pancreatitis and which one is better?|Lipase and amylase and out of them lipase is better.
+Level 2|What are isoenzymes and isoforms?|Isoenzymes are Physically distinct forms of the same enzyme but catalyze the same reaction and found in different tissues or at different developmental stages. Different genes encode. While Isoforms are variants of an enzyme that arise due to post-translational modifications (PTMs) rather than genetic differences. Same gene, difference arises after translation.
+
+Level 3|Name the serine proteases.|Trypsin, chymotrypsin, clotting factors.
+Level 3|What are the specificities of enzymes?|Absolute specificity, bond specificity, group specificity, and stereospecificity.
+Level 3|Why are digestive enzymes secreted in proenzyme form?|In active forms, they would digest the GI wall.
+Level 3|What happens to Km and Vmax in competitive and non-competitive enzyme inhibition?|Km increases and Vmax remains constant in competitive inhibition, while Km remains unaltered and Vmax decreases in non-competitive inhibition.
+Level 3|Give an example of feedback inhibition.|The product inhibits the initial steps of the reaction. Example: Heme inhibiting delta-ALA synthase.
+Level 3|What is the induction and repression phenomenon in enzyme inhibition?|Induction occurs when an inducer relieves the repression of an operator site, enabling enzyme biosynthesis. Examples: Insulin induces glucokinase, barbiturate induces ALA synthase. Repression occurs when a molecule (e.g., heme) inhibits enzyme synthesis, such as heme repressing ALA synthase.
+Level 3|How do non-competitive and allosteric inhibition differ?|Both act at a site other than the active site. However, non-competitive inhibition irreversibly alters enzyme conformation, while allosteric inhibition only changes the conformation of the active site and is partially reversible.
+Level 3|What is the purpose of a multi-enzyme complex?|1. Increased reaction efficiency – speeds up reactions. 2. Substrate channeling – keeps intermediates localized, preventing unwanted side reactions and loss of unstable intermediates. 3. Regulation and coordination – enables controlled enzyme activity via allosteric regulation or covalent modifications. 4. Energy conservation – reduces ATP and energy waste. 5. Preventing toxicity – limits the accumulation of toxic intermediates. Example: PDH complex, fatty acid synthase complex.
+Level 3|Why is a double reciprocal plot needed?|The Michaelis-Menten equation is hyperbolic and difficult to extrapolate accurately. Taking reciprocals converts it into a straight-line equation. It is useful when impractically high substrate concentrations are required to achieve Vmax. It helps researchers compare enzyme activity under different conditions and provides a simple visual tool for enzyme kinetics analysis.
+Level 3|What is an abzyme?|An abzyme is an antibody with enzymatic activity. Unlike regular antibodies that bind to antigens without modifying them, abzymes catalyze chemical reactions and lower activation energy.
+
+
+
