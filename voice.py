@@ -1,5 +1,7 @@
 import torch
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
+from gtts import gTTS
+
 
 class TTS:
     def __init__(self, model_id:str = "openai/whisper-large-v3-turbo") -> None:
@@ -26,3 +28,14 @@ class TTS:
             torch_dtype=self.torch_dtype,
             device=self.device
         )
+
+
+    def transcribe(self, audio):
+        return self.pipeline(audio)
+
+
+    @staticmethod
+    def tts(response, tld="co.in", lang="en"):
+        speech = gTTS(response, lang=lang, tld=tld)
+        speech.save("tts.mp3")
+
